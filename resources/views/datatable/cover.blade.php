@@ -1,0 +1,1 @@
+<img src="{{ asset('img/'.$model) }}" class="img img-responsive" style="height: 50px; width: 50px">
